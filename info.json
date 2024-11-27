@@ -1,0 +1,11 @@
+{
+	"name": "HideLastUser",
+	"version": "1.0.0",
+	"title": "Hide Last User",
+	"author": "StephenB",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base >= 2.0"
+	],
+	"description": "To unclutter tooltips and avoid doxxing yourself in screenshots and streams"
+}
